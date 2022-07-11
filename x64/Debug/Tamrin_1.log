@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Reza\Game Projects\C++\Basic\Tamrin_1\Source.cpp(17,6): warning C4101: 'j': unreferenced local variable
+  Tamrin_1.vcxproj -> D:\Reza\Game Projects\C++\Basic\Tamrin_1\x64\Debug\Tamrin_1.exe
